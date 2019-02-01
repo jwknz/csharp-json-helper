@@ -1,0 +1,11 @@
+C:\Users\Jeffrey Kranenburg\source\repos\JSON-Display-Dictionary\JSON-Display-Dictionary\bin\Debug\netcoreapp2.2\JSON-Display-Dictionary.deps.json
+C:\Users\Jeffrey Kranenburg\source\repos\JSON-Display-Dictionary\JSON-Display-Dictionary\bin\Debug\netcoreapp2.2\JSON-Display-Dictionary.runtimeconfig.json
+C:\Users\Jeffrey Kranenburg\source\repos\JSON-Display-Dictionary\JSON-Display-Dictionary\bin\Debug\netcoreapp2.2\JSON-Display-Dictionary.runtimeconfig.dev.json
+C:\Users\Jeffrey Kranenburg\source\repos\JSON-Display-Dictionary\JSON-Display-Dictionary\bin\Debug\netcoreapp2.2\JSON-Display-Dictionary.dll
+C:\Users\Jeffrey Kranenburg\source\repos\JSON-Display-Dictionary\JSON-Display-Dictionary\obj\Debug\netcoreapp2.2\JSON-Display-Dictionary.csprojAssemblyReference.cache
+C:\Users\Jeffrey Kranenburg\source\repos\JSON-Display-Dictionary\JSON-Display-Dictionary\obj\Debug\netcoreapp2.2\JSON-Display-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey Kranenburg\source\repos\JSON-Display-Dictionary\JSON-Display-Dictionary\obj\Debug\netcoreapp2.2\JSON-Display-Dictionary.AssemblyInfoInputs.cache
+C:\Users\Jeffrey Kranenburg\source\repos\JSON-Display-Dictionary\JSON-Display-Dictionary\obj\Debug\netcoreapp2.2\JSON-Display-Dictionary.AssemblyInfo.cs
+C:\Users\Jeffrey Kranenburg\source\repos\JSON-Display-Dictionary\JSON-Display-Dictionary\obj\Debug\netcoreapp2.2\JSON-Display-Dictionary.dll
+C:\Users\Jeffrey Kranenburg\source\repos\JSON-Display-Dictionary\JSON-Display-Dictionary\obj\Debug\netcoreapp2.2\JSON-Display-Dictionary.pdb
+C:\Users\Jeffrey Kranenburg\source\repos\JSON-Display-Dictionary\JSON-Display-Dictionary\bin\Debug\netcoreapp2.2\JSON-Display-Dictionary.pdb
